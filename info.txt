@@ -4,3 +4,4 @@ This course is 2 days
 This is the second day of the course
 This line written by login branch
 This line written by user2
+This will not be stashed
